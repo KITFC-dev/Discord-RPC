@@ -15,7 +15,6 @@
     <li><a href="#features">Features</a></li>
     <li><a href="#themes-customization">Themes and Customization</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
 </ul>
 
@@ -33,9 +32,6 @@
 
 <h2 id="contributing">Contributing</h2>
 <p>Contributions are welcome! If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request.</p>
-
-<h2 id="license">License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2 id="contact">Contact</h2>
 <p>For contact, please visit <a href="https://github.com/kitfc-dev">GitHub</a> or contact the developer directly.</p>
